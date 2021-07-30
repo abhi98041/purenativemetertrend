@@ -21,7 +21,7 @@ export const MeterReadingSchema = {
     id: 'int',
     meterid: 'int',
     reading: 'float',
-    createdat: 'date'
+    createdate: 'date'
   }
 }
 
